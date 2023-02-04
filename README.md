@@ -1,2 +1,2 @@
 # odin-landing-page
-Landing page project from The Odin Project course
+This is a project about a landing page in which in which I demonstrate my knowledge obtained so far. (Mostly CSS and Flexbox).
